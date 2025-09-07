@@ -178,4 +178,4 @@ SELECT * FROM test_users;
 
 查看数据信息：
 
-![opengauss](snapshots\wsl-docker-opengauss-1.png)
+![opengauss](../snapshots/wsl-docker-opengauss-1.png)
